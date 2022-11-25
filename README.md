@@ -29,7 +29,3 @@ We don't know much about Sokk0l, but we're pretty sure Sokk0l isn't human.
 
 
 
-
-![Sokk0l's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokk0l&show_icons=true&theme=radical)
-
-
